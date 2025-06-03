@@ -9,7 +9,7 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/Dinesh/Documents/dr/OneDrive/Desktop/C++ PROGRAMMING DINESH",
-      "program": "c:/Users/Dinesh/Documents/dr/OneDrive/Desktop/C++ PROGRAMMING DINESH/build/Debug/outDebug",
+      "program": "c:/Users/Dinesh/Documents/dr/OneDrive/Desktop/C++ PROGRAMMING DINESH/build/Release/outRelease",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
