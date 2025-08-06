@@ -13,7 +13,7 @@ public:
     void show();
 };
 
-BankDeposite :: BankDeposite(int p, int y, float r) {
+BankDeposite :: BankDeposite(int p, int y,float r) {
     principal = p;
     years = y;
     interestRate = r / 100;
